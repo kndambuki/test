@@ -1,0 +1,53 @@
+connect: Network is unreachable
+connect: Network is unreachable
+Waiting for connection... .
+connect: Network is unreachable
+Waiting for connection... .
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=55 time=163 ms
+
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 163.853/163.853/163.853/0.000 ms
+Connected.
+From https://github.com/kndambuki/test
+ * branch            master     -> FETCH_HEAD
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@ndambuki-HP-ProBook-4230s.(none)')
+I executed first
+This is me exceuting again
+Again and again
+Not today
+TODAY IS MONDAY
+ON THIS MONDAY, I am random number.. 11
+ON THIS MONDAY, I am random number.. 47
+ON THIS MONDAY, I am random number.. 25
+ON THIS MONDAY, I am random number.. 2
+ON THIS MONDAY, I am random number.. 28
+ON THIS MONDAY, I am random number.. 42
+ON THIS MONDAY, I am random number.. 42
+ON THIS MONDAY, I am random number.. 10
+ON THIS MONDAY, I am random number.. 9
+ON THIS MONDAY, I am random number.. 10
+ON THIS MONDAY, I am random number.. 15
+ON THIS MONDAY, I am random number.. 45
+ON THIS MONDAY, I am random number.. 35
+ON THIS MONDAY, I am random number.. 27
+ON THIS MONDAY, I am random number.. 45
+ON THIS MONDAY, I am random number.. 17
+ON THIS MONDAY, I am random number.. 49
+ON THIS MONDAY, I am random number.. 49
+ON THIS MONDAY, I am random number.. 23
+ON THIS MONDAY, I am random number.. 19
+ON THIS MONDAY, I am random number.. 46
+ON THIS MONDAY, I am random number.. 9
