@@ -1,5 +1,5 @@
 print("I executed first")
 print("This is me exceuting again")
-#~ print("Again and again")
-#~ print("Not today")
-#~ print("TODAY IS MONDAY")
+print("Again and again")
+print("Not today")
+print("TODAY IS TUESDAY")
